@@ -1,2 +1,2 @@
-# reverseastralmanifestation.github.io
-Official website for Reverse Astral Manifestation
+# Reverse Astral Manifestation
+Official website for Reverse Astral Manifestation, created by Mekdlawit Tesfaye (Hivan).
